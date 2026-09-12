@@ -1,4 +1,5 @@
 # RECAP-BDD-SAUCEDEMO
+![CI](https://github.com/28mirceas/RECAP-BDD-SAUCEDEMO/actions/workflows/behave-tests.yml/badge.svg)
 
 ## Description
 
