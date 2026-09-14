@@ -34,7 +34,7 @@ jobs:
 
       - name: Run Behave tests
         run: |
-          behave
+          python -m behave
 
          
           
