@@ -34,7 +34,7 @@ class LoginPage(BasePage):
 
     def verify_login_error_message(self, expected_message):
         actual_message = self.get_login_error_message_text()
-
+        print("Modificare pentru testare GIT!")
         assert actual_message == expected_message, (
             f"Expected error: {expected_message}, "
             f"but got: {actual_message}"
